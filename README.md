@@ -33,3 +33,16 @@
 ![photo](https://i.pinimg.com/originals/af/2f/7c/af2f7cb0d5ca4c74efd8fc7c31002beb.jpg)
 
 
+### Basic Data Structures
+
+    -  Use an Array to Store a Collection of Data
+    -  Access an Array's Contents Using Bracket Notation
+    -  Not Passed
+    -  Add Items to an Array with push() and unshift()
+    -  Remove Items from an Array with pop() and shift()
+    -  Remove Items Using splice()
+    -  Add Items Using splice()
+    -  Copy Array Items Using slice()
+    -  Copy an Array with the Spread Operator
+    -  Combine Arrays with the Spread Operator
+    -  Check For The Presence of an Element With indexOf()
