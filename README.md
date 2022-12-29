@@ -57,3 +57,24 @@
     -  Generate an Array of All Object Keys with Object.keys()
     -  Modify an Array Stored in an Object
 ![photo](https://i.pinimg.com/originals/51/56/27/515627e51cdacab99fe3e793ecc61a63.jpg)
+
+
+### Basic Algorithm Scripting
+
+    -  Convert Celsius to Fahrenheit
+    -  Reverse a String
+    -  Factorialize a Number
+    -  Find the Longest Word in a String
+    -  Return Largest Numbers in Arrays
+    -  Confirm the Ending
+    -  Repeat a String Repeat a String
+    -  Truncate a String
+    -  Finders Keepers
+    -  Boo who
+    -  Title Case a Sentence
+    -  Slice and Splice
+    -  Falsy Bouncer
+    -  Where do I Belong
+    -  Mutations
+    -  Chunky Monkey
+![photo](https://i.pinimg.com/originals/53/c6/35/53c635e7ca32a68e9f81cbbb3bfdfdab.jpg)
