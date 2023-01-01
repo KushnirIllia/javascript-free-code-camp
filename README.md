@@ -78,3 +78,13 @@
     -  Mutations
     -  Chunky Monkey
 ![photo](https://i.pinimg.com/originals/53/c6/35/53c635e7ca32a68e9f81cbbb3bfdfdab.jpg)
+
+### Functional Programming
+    -  Learn About Functional Programming
+    -  Understand Functional Programming Terminology
+    -  Understand the Hazards of Using Imperative Code
+    -  Avoid Mutations and Side Effects Using Functional Programming
+    -  Pass Arguments to Avoid External Dependence in a Function
+    -  Refactor Global Variables Out of Functions
+    -  Use the map Method to Extract Data from an Array
+    -  Implement map on a Prototype
