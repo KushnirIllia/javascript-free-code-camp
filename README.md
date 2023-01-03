@@ -13,7 +13,8 @@
     -   Use Destructuring Assignment to Assign Variables from Objects
     -   Use Destructuring Assignment to Assign Variables from Nested Objects
     -   Use Destructuring Assignment to Assign Variables from Arrays
-    -   Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements
+    -   Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements![image](https://user-images.githubusercontent.com/79041769/210349764-042e0288-6687-424e-992f-ea097e004098.jpeg)
+
     -   Use Destructuring Assignment to Pass an Object as a Function's Parameters
     -   Create Strings using Template Literals
     -   Write Concise Object Literal Declarations Using Object Property Shorthand
@@ -88,3 +89,13 @@
     -  Refactor Global Variables Out of Functions
     -  Use the map Method to Extract Data from an Array
     -  Implement map on a Prototype
+    -  Use the filter Method to Extract Data from an Array
+    -  Implement the filter Method on a Prototype
+    -  Return Part of an Array Using the slice Method
+    -  Remove Elements from an Array Using slice Instead of splice
+    -  Combine Two Arrays Using the concat Method
+    -  Add Elements to the End of an Array Using concat Instead of push
+    -  Use the reduce Method to Analyze Data
+    -  Use Higher-Order Functions map, filter, or reduce to Solve a Complex Problem
+    -  Sort an Array Alphabetically using the sort Method
+    -  Return a Sorted Array Without Changing the Original Array
