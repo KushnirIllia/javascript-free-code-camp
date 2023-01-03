@@ -13,7 +13,8 @@
     -   Use Destructuring Assignment to Assign Variables from Objects
     -   Use Destructuring Assignment to Assign Variables from Nested Objects
     -   Use Destructuring Assignment to Assign Variables from Arrays
-    -   Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements![image](https://user-images.githubusercontent.com/79041769/210349764-042e0288-6687-424e-992f-ea097e004098.jpeg)
+    -   Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements
+![image](https://user-images.githubusercontent.com/79041769/210349764-042e0288-6687-424e-992f-ea097e004098.jpeg)
 
     -   Use Destructuring Assignment to Pass an Object as a Function's Parameters
     -   Create Strings using Template Literals
